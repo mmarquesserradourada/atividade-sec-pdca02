@@ -3,7 +3,7 @@ Atividade Aula Segurança 02 - Faculdade Serra Dourada Lorena
 
 Código a ser analisado em PHP
 
-<pre>
+
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $upload_dir = "uploads/";
@@ -16,7 +16,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 ?>
-</pre>
 
 
 # O que tem que ser feito

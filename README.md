@@ -4,7 +4,7 @@ Atividade Aula Segurança 02 - Faculdade Serra Dourada Lorena
 Código a ser analisado em PHP.
 
 
-<?php
+
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $upload_dir = "uploads/";
     $file = $upload_dir . basename($_FILES["file"]["name"]);
@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         echo "Erro ao enviar arquivo.";
     }
 }
-?>
+
 
 
 # O que tem que ser feito

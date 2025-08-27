@@ -1,7 +1,7 @@
 # atividade-sec-pdca02
 Atividade Aula Segurança 02 - Faculdade Serra Dourada Lorena
 
-Código a ser analisado em PHP
+Código a ser analisado em PHP.
 
 
 <?php
